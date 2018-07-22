@@ -2,4 +2,5 @@
 ==========
 
 Just my ideas
-Hello, just learning how to code and script. Seems interesting.
+
+Hello, messing around and learning how to work things here. Seems interesting.
